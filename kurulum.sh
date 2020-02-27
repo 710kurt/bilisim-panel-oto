@@ -97,6 +97,7 @@ echo -e "# ${beyaz}
 	echo -e "\033[1;31m1)  CPANEL Kur\033[0m"
 	echo -e "\033[1;31m1)  Plesk Kur\033[0m"
 	echo -e "\033[1;31m1)  CyberPanel Kur\033[0m"
+	echo -e "\033[1;31m1)  Centos Web Panel Kur\033[0m"
 	echo -e "\033[1;31m1)  Nginx Kur\033[0m"
 	echo -e "\033[1;31m1)  NodeJS Kur\033[0m"
 	echo -e "\033[1;31m2)  Çıkış\033[0m"
